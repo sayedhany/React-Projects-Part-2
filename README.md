@@ -1,15 +1,12 @@
-#### React Router Fix
+###Cocktails API
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+in this project we used cocktails API to fetch some data and render it also we used React router and some axios to fetching data
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
+- Live view: https://cocktailsapi-site.netlify.app
+- you Can download project then
 
 ```
-
-```sh
-npm install react-router-dom@6
+npm install && npm start
 ```
+
+- to play it.
