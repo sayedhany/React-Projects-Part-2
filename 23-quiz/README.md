@@ -1,2 +1,3 @@
 ### quiz site
-- l
+
+- live view: https://quiz-site-sayed.netlify.app
